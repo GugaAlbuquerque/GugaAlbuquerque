@@ -1,5 +1,8 @@
 ## Hi, I'm Gustavo 👋🏼👨🏼‍💻
 
+in development, not finished
+
+
 <div>
 <p align="center">
 <a href="link"><img src="https://imgur.com/mOKt4tk.png" width="90%" height="auto"/></a>
