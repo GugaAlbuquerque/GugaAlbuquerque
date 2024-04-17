@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-## HELLO WORLD, I'M GUSTAVO!
+## HELLO WORLD, I'M GUGA ALBUQUERQUE!
 
 <p align="center">I 💜 to solve great challenges using tech. I'm a Student passionate about solving complex problems through technology. I like to balance my career between tecnological and administration skills. My commitment to achieving the best results in all my deliveries is evident in my work, and I constantly look for ways to add value to each project I am involved in. My current goal is to further expand my skills and knowledge, with the intention of contributing in a positive and significant way to the success of organizations. </p>&nbsp;
 
