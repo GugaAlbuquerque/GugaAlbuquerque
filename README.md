@@ -1,14 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Slab&weight=200&size=25&pause=1000&color=9400D3&multiline=true&random=false&width=550&lines=Hello%2C+I%27m++Gustavo!+Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
 
 <img align="right" height="450em" src="https://raw.githubusercontent.com/gist/GugaAlbuquerque/79ad1157fe4e3765647611527ce2219d/raw/d649e5ae4d383d64bddca2da51512959564a18f8/githubcard.svg"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Slab&weight=200&size=25&pause=1000&color=9400D3&multiline=true&random=false&width=550&lines=Hello%2C+I%27m++Gustavo!+Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
-
-
 <p align="left">I 💜 to solve great challenges using tech. I'm a Student passionate about solving complex problems through technology. I like to balance my career between tecnological and administration skills. My commitment to achieving the best results in all my deliveries is evident in my work, and I constantly look for ways to add value to each project I am involved in. My current goal is to further expand my skills and knowledge, with the intention of contributing in a positive and significant way to the success of organizations. </p>&nbsp;
 
- 
 ### My Skills
 
 #### Main Stack:
@@ -24,8 +21,6 @@
 
 ![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![NODE JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
